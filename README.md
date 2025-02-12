@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Parrot%20OS-00A896?style=for-the-badge&logo=parrotos&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hydra&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-4D4D4D?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Burp%20Suite-FE5000?style=for-the-badge&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/Aircrack--ng-0078D4?style=for-the-badge&logo=aircrack-ng&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 
 ### 🛠 Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
