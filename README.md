@@ -8,7 +8,7 @@
 
 ## Roadmap 2025 :
 
-📌 - **Improve:** Python | Java | Spring Boot | FastAPI | Databases (SQL & NoSQL)  
+📌 - **Improve:** Python | Java | LUA | FastAPI | Databases (SQL & NoSQL)  
 📚 - **Learn:** Advanced Ethical Hacking & Red Teaming  
 
 ## My Stack and Tools :
